@@ -11,7 +11,7 @@ This is a practice project for Data Science Nanodegree at Udacity.
 ### Purpose of the project
 The project is designed to help hoster characters of the most popular lodging and the factors affecting the price range. Five business interest questions will guide readers to learn about the competitive level of Seattle lodging. 
 
-- What is the distribution of Seattle lodgings? Like location, price and house size. 
+- What is the distribution of Seattle lodgings? Such as location, price and house size. 
 - Which area will travelers rate highest? 
 - 
 - 
