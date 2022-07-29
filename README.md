@@ -8,6 +8,15 @@ This is a practice project for Data Science Nanodegree at Udacity.
 
 [Airbnb](https://www.airbnb.com/) is one of the most popular platform for lodging, primarily homestays for vacation rentals, and tourism activities. This dataset describes the listing activity of homestays in Seattle, WA in 2018.
 
+### Purpose of the project
+The project is designed to help hoster characters of the most popular lodging and the factors affecting the price range. Five business interest questions will guide readers to learn about the competitive level of Seattle lodging. 
+
+- What is the distribution of Seattle lodgings? Such as location, price and house size. 
+- Which area will travelers rate highest? 
+- 
+- 
+- 
+
 <!-- 
 
 ```bash
