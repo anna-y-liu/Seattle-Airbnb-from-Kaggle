@@ -13,7 +13,7 @@ The project is designed to help host characters of the most popular lodging and 
 
 - What is the distribution of Seattle lodgings? Such as location, price and house size. 
 - Which area will travelers rate highest? 
-- Is there a price different between seasons / months? When is the most popular season? 
+- When is the most popular season? 
 - How do other hosts define their price? Which factor effect prices the most? Time, location, amenities and etc.  
 
 <!-- 
