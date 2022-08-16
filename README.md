@@ -3,6 +3,7 @@
 This is a practice project for Data Science Nanodegree at Udacity. 
 * Author: Anna Liu
 * Contributor: Anna Liu
+* Medium post: https://medium.com/@anna-y-liu/how-do-you-let-travelers-love-you-lodging-42ae0de67aec
 
 ## Introduction
 
