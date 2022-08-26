@@ -10,7 +10,7 @@ This is a practice project for Data Science Nanodegree at Udacity.
 
 [Airbnb](https://www.airbnb.com/) is one of the most popular platform for lodging, primarily homestays for vacation rentals, and tourism activities. This dataset describes the listing activity of homestays in Seattle, WA in 2017.
 
-## File Description
+### File Description
 
 README.md: description of the project
 Seattle_Airbnb.ipynb: Notebook containing the data analysis
