@@ -30,6 +30,11 @@ The project is designed to help host characters of the most popular lodging and 
 - When is the most popular season? 
 - How do other hosts define their price? Which factor effect prices the most? Time, location, amenities and etc.  
 
+## Libraries used
+The following python libraries were used in this projects: 
+* numpy == 1.22.0
+* pandas == 1.4.3
+* matplotlib == 3.5.3
 
 ## Acknowledgment: 
 This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data/).
